@@ -1,0 +1,7 @@
+[2022-06-14 16:12:06.030] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:12:06.030] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:12:06.030] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:12:06.030] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:12:06.030] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:12:06.030] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志

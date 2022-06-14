@@ -1,0 +1,105 @@
+[2022-06-14 16:08:44.276] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:44.292] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:44.292] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:44.292] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:44.292] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:44.293] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:08:47.298] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:47.298] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:47.298] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:47.298] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:47.299] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:47.299] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:08:50.312] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:50.312] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:50.312] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:50.312] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:50.312] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:50.312] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:08:53.324] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:53.324] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:53.324] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:53.324] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:53.324] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:53.325] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:08:56.339] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:56.339] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:56.339] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:56.339] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:56.339] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:56.339] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:08:59.345] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:08:59.345] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:08:59.345] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:08:59.345] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:08:59.345] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:08:59.345] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:02.351] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:02.351] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:02.351] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:02.351] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:02.352] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:02.352] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:05.360] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:05.360] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:05.360] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:05.360] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:05.360] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:05.360] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:08.361] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:08.361] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:08.361] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:08.361] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:08.361] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:08.361] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:11.374] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:11.374] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:11.374] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:11.374] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:11.374] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:11.374] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:14.388] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:14.388] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:14.388] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:14.388] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:14.388] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:14.388] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:17.401] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:17.401] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:17.401] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:17.401] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:17.401] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:17.401] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:20.411] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:20.411] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:20.411] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:20.411] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:20.411] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:20.412] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:23.414] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:23.414] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:23.414] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:23.414] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:23.414] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:23.414] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
+[2022-06-14 16:09:26.429] [Debug] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:34] 这是一条Debug日志
+[2022-06-14 16:09:26.429] [Trace] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:35] 这是一条Trace日志
+[2022-06-14 16:09:26.429] [Info] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:36] 这是一条Info日志
+[2022-06-14 16:09:26.429] [Warn] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:37] 这是一条Warn日志
+[2022-06-14 16:09:26.429] [Error] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:39] 这是一条Error日志,id:123
+
+[2022-06-14 16:09:26.429] [Fatal] [D:/goproject/easyLog/easyLog_demo/main.go:fileTest:40] 这是一条Fatal日志
